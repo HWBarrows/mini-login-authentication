@@ -1,0 +1,22 @@
+
+
+POST http://localhost:3535/register
+Content-Type: application/json
+
+{
+    "username": "BabyCakes",
+    "password": "malegigsdasxdasdased"
+}
+
+###
+
+POST http://localhost:3535/login
+Content-Type: application/json
+
+{
+    "username": "BabyCakes",
+    "password": "malegigsdasxdasdased"
+}
+
+###
+
